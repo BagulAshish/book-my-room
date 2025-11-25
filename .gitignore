@@ -1,0 +1,40 @@
+## Build Folders ##
+bin/
+obj/
+out/
+**/bin/
+**/obj/
+
+## Rider ##
+.idea/
+*.sln.iml
+
+## VS Code ##
+.vscode/
+
+## User-specific files ##
+*.user
+*.userosscache
+*.suo
+
+## Logs ##
+*.log
+
+## NuGet packages ##
+*.nupkg
+packages/
+
+## Environment files ##
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+## Docker crap ##
+**/docker-data/
+**/volumes/
+
+## Publish ##
+publish/
+
+## EF Core ##
+Migrations/*Designer.cs
