@@ -25,6 +25,7 @@ out/
 packages/
 
 ## Environment files ##
+appsettings.json
 appsettings.Development.json
 appsettings.Local.json
 appsettings.*.json
