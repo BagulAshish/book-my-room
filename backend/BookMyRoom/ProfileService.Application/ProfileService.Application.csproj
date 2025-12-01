@@ -3,6 +3,7 @@
     <ItemGroup>
       <ProjectReference Include="..\ProfileService.Domain\ProfileService.Domain.csproj" />
       <ProjectReference Include="..\ProfileService.Contracts\ProfileService.Contracts.csproj" />
+      <ProjectReference Include="..\ProfileService.Infrastructure\ProfileService.Infrastructure.csproj" />
     </ItemGroup>
 
     <PropertyGroup>

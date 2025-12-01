@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <ItemGroup>
-      <ProjectReference Include="..\ProfileService.Application\ProfileService.Application.csproj" />
       <ProjectReference Include="..\ProfileService.Domain\ProfileService.Domain.csproj" />
       <ProjectReference Include="..\ProfileService.Contracts\ProfileService.Contracts.csproj" />
     </ItemGroup>
